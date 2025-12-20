@@ -3,13 +3,6 @@
 <!--
 **AniPatil101/AniPatil101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🐍 Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/AniPatil101/AniPatil101/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/AniPatil101/AniPatil101/output/github-contribution-grid-snake-dark.svg)
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Snake](https://raw.githubusercontent.com/AniPatil101/AniPatil101/output/github-contribution-grid-snake.svg)
