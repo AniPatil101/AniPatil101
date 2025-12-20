@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Snake](https://raw.githubusercontent.com/AniPatil101/AniPatil101/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/AniPatil101/AniPatil101/output/github-contribution-grid-snake-dark.svg)
