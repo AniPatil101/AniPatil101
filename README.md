@@ -1,19 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+<p align="center">
+  Student Developer • Open Source Enthusiast • Problem Solver
+</p>
 
-<!--
-**AniPatil101/AniPatil101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Student passionate about software development
+- 💡 Interested in **open source**, **backend systems**, and **problem solving**
+- 🌱 Currently learning and building consistently
+- 🤝 Open to collaborations and learning from the community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages**
+- C / C++
+- Python
+- JavaScript
+
+**Frameworks & Tools**
+- Django, Flask
+- Node.js, React
+- Git & GitHub
+- Docker (basic)
+
+**Interests**
+- Open Source
+- Debugging & system thinking
+- Building useful projects
+
+---
+
+### 📌 Current Focus
+- Improving DSA fundamentals
+- Contributing to open-source projects
+- Building real-world applications
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/AniPatil101
+- LinkedIn: https://www.linkedin.com/in/aniket-patil-901201331/
+
+---
+
+<p align="center">
+  <i>“We don’t fear errors — we fix them.”</i>
+</p>
 
 
 ![Snake](https://raw.githubusercontent.com/AniPatil101/AniPatil101/output/github-contribution-grid-snake-dark.svg)
